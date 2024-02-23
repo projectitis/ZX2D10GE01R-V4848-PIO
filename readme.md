@@ -2,9 +2,10 @@
 
 Simple example ZX2D10GE01R-V4848 for Arduino and PlatformIO
 
-Displays two buttons on the screen.
-Select button using the ring (digital encoder).
-Press the button to increase the count on the button.
+Displays two buttons on the screen using LVGL.
+
+- Select button using the ring (digital encoder).
+- Press the button to increase the count on the button.
 
 Cobbled together from:
 
